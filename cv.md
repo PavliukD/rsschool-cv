@@ -5,6 +5,7 @@
 
 ### Contact information:
 
+**Location:** Kryvyi Rih, Ukraine
 **Phone:** +38 0972053591<br>
 **E-mail:** pavlyuk.ds91@gmail.com<br>
 **Telegram:** @DmitroPavliuk<br>
@@ -30,6 +31,16 @@ Since then, he has been part of the volunteer project development team. I also d
 - Node.js
 - Webpack
 - RESTful API
+
+---
+
+
+
+### Code Example:
+
+function sum(a, b) {
+  return a + b;
+}
 
 ---
 
